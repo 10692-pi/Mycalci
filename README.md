@@ -3,9 +3,10 @@
 # Project Name: Calculator App
 
 # authors:-
--> Siva Ram Krishna (0)
--> Sai Karthik      (1)
--> Sashi Vardhan    (2)
+-> Sai Karthik     
+-> Sushma 
+
+
 
 # Description: Basic calculator with react js
 
@@ -14,7 +15,7 @@ The application developed for performing mathematical arithematic operations usi
 # Project Status
 
 This project is currently in development.Using this application anyone can do mathematical operations with this.
-This application is done using redux hooks,states,props, class components for the calculation and store the history of calculation for the user reference.
+
 
 
 # Installation and Setup Instructions
